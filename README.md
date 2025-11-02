@@ -1,7 +1,3 @@
-Aquí tienes un ejemplo de `README.md` para tu repositorio:
-
----
-
 # Taller2-Redes-Neuronales
 
 Este repositorio contiene la solución completa a los **cuatro puntos del Taller 2 de Redes Neuronales**, organizados en **cuatro archivos diferentes**:
